@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| Implement Causal Masking for Attention | Create a causal attention mask that blocks each token from attending to future positions in a sequence. | https://www.tensortonic.com/problems/causal-masking |
 | Advantage Computation | Compute reinforcement-learning advantages by subtracting value estimates from observed returns at each timestep. | https://www.tensortonic.com/problems/compute-advantage |
 | Implement Dot Product | Implement the dot product of equal-length numeric vectors by summing element-wise products without library shortcuts. | https://www.tensortonic.com/problems/dot-product |
 | Matrix Transpose | Implement matrix transpose in NumPy without built-in transpose helpers, preserving rectangular shapes and the original input. | https://www.tensortonic.com/problems/matrix-transpose |
